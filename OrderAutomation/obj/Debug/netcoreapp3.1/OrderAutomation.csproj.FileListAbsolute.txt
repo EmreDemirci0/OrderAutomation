@@ -1,0 +1,48 @@
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\bin\Debug\netcoreapp3.1\OrderAutomation.exe
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\bin\Debug\netcoreapp3.1\OrderAutomation.deps.json
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\bin\Debug\netcoreapp3.1\OrderAutomation.runtimeconfig.json
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\bin\Debug\netcoreapp3.1\OrderAutomation.runtimeconfig.dev.json
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\bin\Debug\netcoreapp3.1\OrderAutomation.dll
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\bin\Debug\netcoreapp3.1\OrderAutomation.pdb
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.csproj.AssemblyReference.cache
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.csproj.GenerateResource.cache
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.AssemblyInfoInputs.cache
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.AssemblyInfo.cs
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.csproj.CoreCompileInputs.cache
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.dll
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.pdb
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.genruntimeconfig.cache
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.frmIdPw.resources
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.frmLoginSuccessfulPersonel.resources
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.frmPersonelControlPanel.resources
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.frmUrunCikar.resources
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.Forms.frmItemUpdate.resources
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.Forms.frmLoginSuccessfull.resources
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.Forms.frmPayment.resources
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.Forms.frmOrders.resources
+D:\Yazılım\nesneye yönelimli programlama\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.Properties.Resources.resources
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\bin\Debug\netcoreapp3.1\OrderAutomation.exe
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\bin\Debug\netcoreapp3.1\OrderAutomation.deps.json
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\bin\Debug\netcoreapp3.1\OrderAutomation.runtimeconfig.json
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\bin\Debug\netcoreapp3.1\OrderAutomation.runtimeconfig.dev.json
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\bin\Debug\netcoreapp3.1\OrderAutomation.dll
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\bin\Debug\netcoreapp3.1\OrderAutomation.pdb
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.csproj.AssemblyReference.cache
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.frmIdPw.resources
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.Forms.frmItemUpdate.resources
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.Forms.frmLoginSuccessfull.resources
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.frmLoginSuccessfulPersonel.resources
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.Forms.frmOrders.resources
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.Forms.frmPayment.resources
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.frmPersonelControlPanel.resources
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.frmUrunCikar.resources
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.Properties.Resources.resources
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.csproj.GenerateResource.cache
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.AssemblyInfoInputs.cache
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.AssemblyInfo.cs
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.csproj.CoreCompileInputs.cache
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.dll
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.pdb
+C:\Users\TR-HALOMAN06\Desktop\OrderAutomation\OrderAutomation\obj\Debug\netcoreapp3.1\OrderAutomation.genruntimeconfig.cache
