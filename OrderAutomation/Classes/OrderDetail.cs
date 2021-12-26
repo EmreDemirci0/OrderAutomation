@@ -5,9 +5,9 @@ using System.Text;
 namespace OrderAutomation
 {
     class OrderDetail
-    {   //BUNLARI METOTLARA ENTEGRE ETTTTTT
-        public decimal quantity { get; set; }//kaç tane var
-        public decimal taxStatus { get; set; }//vergi oranı
+    {   
+        public decimal quantity { get; set; }
+        public decimal taxStatus { get; set; }
         public decimal tax { get; set; }
         public Item item { get; set; }
 
@@ -18,27 +18,24 @@ namespace OrderAutomation
             quantity = 0;
             taxStatus = 0;
             tax = 0;
-            //System.Windows.Forms.MessageBox.Show("item.getpricequntity"+item.getPriceForQuantity()+"item.ıtemprice");
-            //System.Windows.Forms.MessageBox.Show("item.getweight"+item.getWeight());
-            //System.Windows.Forms.MessageBox.Show("item.kdv/100:"+item.ItemKdv/100);
+           
         }
-        public decimal calcSubTax()//HESAPLIYO
+        public decimal calcSubTax()
         {
-            tax = item.getPriceForQuantity(/*item.UrunMiktari*/) * item.getWeight() /** quantity */* (item.ItemKdv / 100);
+            tax = item.getPriceForQuantity() * item.getWeight() * (item.ItemKdv / 100);
             return tax;
         }
-        public decimal calcSubTotal()//HESAPLIYO
-        {//Tane*Kg=ücreti
+        public decimal calcSubTotal()
+        {
             decimal payable = 0;
-             payable = (item.getPriceForQuantity(/*item.UrunMiktari*/)/* * quantity*/* item.getWeight());
+             payable = (item.getPriceForQuantity()* item.getWeight());
            
 
            
-             // System.Windows.Forms.MessageBox.Show("payable:"+payable+"tax:"+tax);
-          //  payable -= tax;
-            return payable-calcSubTax();//%10 vergi
+          
+            return payable-calcSubTax();
         }
-        public decimal calcWeight() //HESAPLIYO
+        public decimal calcWeight() 
         { 
 
             return item.getWeight();
