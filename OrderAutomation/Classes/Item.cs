@@ -8,8 +8,8 @@ namespace OrderAutomation
     {
         
         
-        public decimal shippingWeight { get; set; }//kargo ağırlığı
-        public string description { get; set; }//açıklama
+        public decimal shippingWeight { get; set; }
+        public string description { get; set; }
         public string ItemName { get; set; }
         public decimal ItemPrice { get; set; }
         public decimal ItemKdv { get; set; }
@@ -25,14 +25,14 @@ namespace OrderAutomation
             ItemKdv = 0;
             StokMiktari = 0;
         }
-        public decimal getWeight()//ağırlık al
+        public decimal getWeight()
         {  
-            return shippingWeight/**ItemKdv*/;
+            return shippingWeight;
         }
-        public decimal getPriceForQuantity()//Adet için fiyatr al
+        public decimal getPriceForQuantity()
         {
-            //price = 10;//tanesi 10tl
-            return /*quantitiy**/ItemPrice;
+            
+            return ItemPrice;
         }
         
     }
