@@ -8,10 +8,10 @@ namespace OrderAutomation
     {
         public decimal number { get; set; }
         public string type { get; set; }
-        public DateTime expDate { get; set; }//SonKullanmaTarihi
+        public DateTime expDate { get; set; }
         int confirm = 0;
 
-        //public override decimal amount { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+       
         public override void feePay(decimal price)
         {
             amount = price;    
